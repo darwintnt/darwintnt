@@ -19,7 +19,7 @@ Más de 8 años construyendo sistemas backend cloud-native: microservicios, arqu
 - [**ecommerce-backend**](https://github.com/darwintnt/ecommerce-backend): backend de e-commerce en TypeScript.
 - [**cv-creator-ats**](https://github.com/darwintnt/cv-creator-ats): generador de CVs optimizados para ATS.
 - [**calculator_barcode**](https://github.com/darwintnt/calculator_barcode): cálculo del dígito de control EAN8, EAN13 y UPC.
-- [**english-tutor**](https://github.com/darwintnt/calculator_barcode): practica conversaciones en ingles auto-hosteable.
+- [**english-tutor**](https://github.com/darwintnt/english-tutor): practica conversaciones en ingles auto-hosteable.
 ## 📫 Contacto
  
 [Sitio web](https://darwintnt.co) · [LinkedIn](https://www.linkedin.com/in/darwintnt/) · [Santago](https://santago.co)
